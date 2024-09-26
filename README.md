@@ -74,13 +74,14 @@ To view the structure of the backend and frontend, please refer to the following
 4. [Project Logo](#Project-Logo)
 5. [Slogan](#Slogan)
 6. [Project Product Title](#Project-Product-Title)
-7. [Database Model](#Database-Model)
-8. [UML Class Models](#UML-Class-Models)
-9. [Component Architecture Model](#Component-Architecture-Model)
-10. [Use Cases](#Main-Use-Cases)
-11. [User Stories - Epics](#User-Stories---Epics)
-12. [Functional Requirements](#Functional-Requirements)
-13. [Non-Functional Requirements](#Non-Functional-Requirements)
+7. [API Endpoint Documentation](#API-Endpoint-Documentation)
+8. [Database Model](#Database-Model)
+9. [UML Class Models](#UML-Class-Models)
+10. [Component Architecture Model](#Component-Architecture-Model)
+11. [Use Cases](#Main-Use-Cases)
+12. [User Stories - Epics](#User-Stories---Epics)
+13. [Functional Requirements](#Functional-Requirements)
+14. [Non-Functional Requirements](#Non-Functional-Requirements)
 
 ---
 
